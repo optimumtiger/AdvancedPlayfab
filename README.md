@@ -5,7 +5,7 @@ TextMeshPro
 [PlayFab SDK](https://github.com/PlayFab/UnitySDK)  
 # Versions
 
-#- You can use other versions but these were the versions that this was tested on.
+-# You can use other versions but these were the versions that this was tested on.
 -----------------------------
 Playfab SDK 2.229
 Unity 2022.3.62f3
