@@ -3,13 +3,13 @@
 # Required Repositories
 TextMeshPro  
 [PlayFab SDK](https://github.com/PlayFab/UnitySDK)  
-# Versions
 
--# You can use other versions but these were the versions that this was tested on.
------------------------------
-Playfab SDK 2.229
-Unity 2022.3.62f3
------------------------------
+# Versions
+-----------------
+You can use other versions but these were the versions that this was tested on. 
+
+# Playfab SDK 2.229      
+# Unity 2022.3.62f3
 # Documentation
 Once you have set up the PlayFab SDK, go ahead and import AdvancedPlayfab.  
 Once AdvancedPlayfab is imported, drag the AdvancedPlayfab prefab into the Hierarchy:  
