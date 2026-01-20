@@ -3,8 +3,6 @@
 # Required Repositories
 TextMeshPro  
 [PlayFab SDK](https://github.com/PlayFab/UnitySDK)  
-[Photon PUN](https://assetstore.unity.com/packages/tools/network/pun-2-free-119922)  
-[Photon VR](https://github.com/fchb1239/PhotonVR)
 
 # Documentation
 Once you have set up the PlayFab SDK, go ahead and import AdvancedPlayfab.  
@@ -58,5 +56,6 @@ Example:
 
 
 # Help
-If any help is needed, you may email me [here](mailto:advancedplayfab@gmail.com).  
+If any help is needed, you may email me [here](mailto:optimumtiger.dev@gmail.com). 
+I will respond faster on discord @optimumtiger
 You can also resort to unofficial communities to ask for help.
