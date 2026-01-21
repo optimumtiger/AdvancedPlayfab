@@ -1,5 +1,6 @@
 ![AdvancedPlayFab__2_-removebg-preview](https://user-images.githubusercontent.com/125162270/231316691-fdf08a86-1339-4960-b28e-a8f5d64ba26a.png)
-
+# View Docs:
+https://optimumtiger.gitbook.io/advancedplayfab/
 # Required Repositories
 TextMeshPro  
 [PlayFab SDK](https://github.com/PlayFab/UnitySDK)  
